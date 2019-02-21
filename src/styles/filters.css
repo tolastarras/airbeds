@@ -1,0 +1,24 @@
+.container .left-col {
+  width: 320px;
+  height: 100%;
+  padding: 15px 20px;
+  position: fixed;
+  left: 0;
+  right: 0;
+  border-right: 1px solid #f0f0f0;
+}
+.container .left-col > div {
+  margin: 40px 0;
+}
+/* .css-1mfaru8 {
+  height: 1em !important;
+} */
+@media all and (max-width: 768px) {
+  .container .left-col {
+    position: static;
+    width: 100%;
+    height: auto;
+    border-right: 0;
+    border-bottom: 1px solid #f0f0f0;
+  }
+}
