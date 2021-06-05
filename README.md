@@ -1,24 +1,10 @@
-## Name
-airbeds
-
-## Description
+## airbeds
 Airbnb Clone with React and ElasticSearch.
 
-### ToDo
-1. Add sort options to allow different ordering of the results,
-2. Add an OAuth login flow and only allow signed-in users to see this UI view.
-
-## Framework
-ReactJs
-
-### Libraries
-ReactiveSearch
-
-### Authentication
-N/A
-
-### Database
-N/A
+### About
+Authentication|Database|Api
+:-:|:-:|:-:
+None|None|None
 
 ### Credits
 Siddharth Kothari
@@ -33,3 +19,10 @@ February 26, 2018
 
 ## Project Github Repo
 https://github.com/appbaseio-apps/airbeds
+
+### Tags
+ReactJs, ReactiveSearch, ElasticSearch
+
+### ToDo
+1. Add sort options to allow different ordering of the results,
+2. Add an OAuth login flow and only allow signed-in users to see this UI view.
